@@ -11,7 +11,7 @@ public class HashMap1 {
          employees.put("Tywin", 3);
 
          
-           System.out.println( employees.get("ram"));
+           System.out.println( employees.get("Jhon"));
 
          employees.remove("Tywin");
 
